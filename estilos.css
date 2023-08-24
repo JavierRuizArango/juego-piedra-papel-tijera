@@ -10,3 +10,12 @@ h1 {
     justify-content: space-around;
 }
 
+.manos {
+    display: flex;
+    justify-content: space-around ;
+}
+
+.manos {
+    
+    height: 150px;
+}
